@@ -87,7 +87,7 @@ function MainLayout() {
   const products = [
     { name: 'cGxP.Directory', url: 'https://cgxp.directory/', tagline: 'Life sciences company database' },
     { name: 'cGxP.Jobs', url: 'https://cgxpjobs.com/', tagline: 'Industry career portal' },
-    { name: 'cGxP.Wire', url: 'https://www.cgxpwire.com/', tagline: 'Regulatory news & intelligence' }
+    { name: 'cGxP.Wire', url: 'https://www.cgxpwire.com/', tagline: 'Life sciences news & press hub' }
   ];
 
   const services = [

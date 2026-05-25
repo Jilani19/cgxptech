@@ -61,8 +61,8 @@ function Home() {
     },
     {
       name: 'cGxP.Wire',
-      tagline: 'Life Sciences Press & Regulatory Releases',
-      description: 'Real-time syndication of FDA approvals, EMA mandates, therapeutic developments, and corporate mergers. The pulse of life sciences news.',
+      tagline: 'Life Sciences News & Press Release Hub',
+      description: 'The ultimate news, press release, and media syndication platform dedicated exclusively to life sciences companies. Delivering real-time industry breakthroughs, clinical news, and regulatory updates.',
       url: 'https://www.cgxpwire.com/',
       theme: 'from-amber-500 to-orange-600'
     }

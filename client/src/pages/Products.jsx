@@ -32,15 +32,15 @@ function Products() {
     },
     {
       name: 'cGxP.Wire',
-      tagline: 'Press & Regulatory Releases',
-      description: 'Real-time syndication of FDA approvals, EMA quality mandates, clinical milestone announcements, and therapeutic developments. The heartbeat of life sciences corporate press.',
+      tagline: 'Life Sciences News & Press Release Hub',
+      description: 'The ultimate news, press release, and media syndication platform dedicated exclusively to life sciences companies. Delivering real-time industry breakthroughs, clinical research news, corporate mergers, and global regulatory updates.',
       url: 'https://www.cgxpwire.com/',
       taglineColor: 'text-amber-600 bg-amber-500/10 border-amber-500/20',
       icon: <FileText className="w-6 h-6 text-amber-500" />,
       features: [
-        'Aggregated regulatory agency updates parsed inside minutes.',
-        'Intelligent impact metrics mapping filings to clinical phases.',
-        'Custom corporate journal subscription APIs.'
+        'Aggregated regulatory, pharmaceutical, and biotech news parsed in real-time.',
+        'Intelligent impact metrics mapping news filings to clinical trial phases.',
+        'Custom corporate news and media distribution APIs.'
       ]
     }
   ];

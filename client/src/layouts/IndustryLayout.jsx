@@ -51,7 +51,7 @@ function IndustryLayout() {
   const productsMap = {
     'cGxP.Directory': { url: 'https://cgxp.directory/', desc: 'Life sciences company directory portal.' },
     'cGxP.Jobs': { url: 'https://cgxpjobs.com/', desc: 'Exclusive GxP careers & verification.' },
-    'cGxP.Wire': { url: 'https://www.cgxpwire.com/', desc: 'FDA, EMA regulatory and life sciences news.' }
+    'cGxP.Wire': { url: 'https://www.cgxpwire.com/', desc: 'News and press releases for life sciences companies.' }
   };
 
   return (
